@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:38.005957
+#+DATE: 2015-08-30 20:12:39.488623
 #+TITLE: 佛說心明經
 #+PROPERTY: CBETA_ID T14n0569
 #+PROPERTY: ID KR6i0201
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 569
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0201_T_000-0942a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0201_T_001-0942a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.569¶
-
- 佛說心明經一卷¶
+No. 569¶
+佛說心明經一卷¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
-聞如是：
+聞如足：
 
 一時，佛遊王舍城靈鷲山，與五百比¶
 丘四部眾俱。佛以晨旦著衣持鉢，往至一縣¶
@@ -106,7 +105,7 @@ No.569¶
 痛息、畜生意開罪除，尋光來詣佛所。諸佛¶
 笑法皆有常瑞，授菩薩決，遍照十方光從頂¶
 入；授緣覺莂，光入面門；授聲聞莂，光入肩斗；¶
-說生天事，光從䐡入；說降人中，光從膝入；說¶
+說生天事，光從[〦/(刀*ㄚ*(留-刀-田))/肉]入；說降人中，光從膝入；說¶
 趣三苦，從足心入。
 
 諸佛之欣，不以欲笑，不¶
